@@ -19,9 +19,9 @@ I'm a dedicated full stack developer passionate about building clean, efficient,
 ### Explore My Work
 Below are some of my key projects. Click on any to learn more about the technologies I used and the challenges I solved:
 
-- **[Project Name 1](https://github.com/Mansourtheonly/your-project-link-1)**  
-- **[Project Name 2](https://github.com/Mansourtheonly/my-prayer)**  
-- **[Project Name 3](https://github.com/Mansourtheonly/UdemyCourseScraper)**  
+- **[Landing page](https://github.com/Mansourtheonly/landing-page)**  
+- **[Salat times](https://github.com/Mansourtheonly/my-prayer)**  
+- **[udemy courses scrapper](https://github.com/Mansourtheonly/UdemyCourseScraper)**  
 
 *Feel free to check out my pinned repositories for additional work and contributions!*
 
@@ -31,7 +31,7 @@ Below are some of my key projects. Click on any to learn more about the technolo
 - **LinkedIn:** [Mansourtheonly](https://www.linkedin.com/in/mansourtheonly)  
   *(If you use a different URL for LinkedIn, update this link.)*
 - **Twitter:** [@Mansourtheonly](https://twitter.com/Mansourtheonly)
-- **Email:** [your.email@example.com](mailto:mehdimansourwork@gmail.com)  
+- **Email:** [mehdimansourwork@gmail.com](mailto:mehdimansourwork@gmail.com)  
   *(Replace with your actual email address.)*
 
 ---
