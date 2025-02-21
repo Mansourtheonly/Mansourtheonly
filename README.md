@@ -1,34 +1,39 @@
 # Hi, I'm Mansourtheonly 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Mansourtheonly?label=Followers&style=social)](https://github.com/Mansourtheonly)
-[![GitHub stars](https://img.shields.io/github/stars/Mansourtheonly?affiliations=OWNER,ORGANIZATION&style=social)](https://github.com/Mansourtheonly)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mansourtheonly?style=social)](https://twitter.com/Mansourtheonly)
 
 ## About Me
-I'm a passionate full stack developer with a knack for creating clean, efficient, and responsive applications. With expertise in **React**, **TypeScript**, **JavaScript**, **Tailwind CSS**, and **Laravel**, I enjoy building projects that solve real-world problems while keeping user experience at the forefront.
 
-## What I Do
-- **Frontend Development:** Building responsive and interactive user interfaces with React and Tailwind CSS.
-- **Backend Development:** Creating robust and scalable APIs using Laravel.
-- **Full Stack Projects:** Integrating front-end and back-end to deliver end-to-end solutions.
-- **Open Source Contributions:** Engaging with the community through collaborative projects and contributions.
+I'm a dedicated full stack developer passionate about building clean, efficient, and visually appealing applications using **React**, **TypeScript**, **JavaScript**, **Tailwind CSS**, and **Laravel**. Whether I'm crafting a dynamic website or contributing to open-source, I strive to create solutions that make a difference.
 
-## Featured Projects
+## Featured Websites
 
-### [Todo App](https://github.com/Mansourtheonly/todo-app)
-A simple yet powerful Todo application that allows users to manage their tasks efficiently.
-- **Tech Stack:** React, TypeScript, Tailwind CSS
+- **[plombierglobal.com](https://plombierglobal.com)**  
+  A comprehensive platform delivering quality plumbing services and resources.
+- **[7how2.com](https://7how2.com)**  
+  Your go-to destination for easy-to-follow tutorials and guides.
 
-### [Tic Tac Toe Game](https://github.com/Mansourtheonly/tic-tac-toe)
-A fun and interactive Tic Tac Toe game with a clean design and smooth animations.
-- **Tech Stack:** React, JavaScript, Tailwind CSS
+## Projects
 
-*Feel free to explore my repositories and reach out if you have any questions or exciting project ideas!*
+### Explore My Work
+Below are some of my key projects. Click on any to learn more about the technologies I used and the challenges I solved:
+
+- **[Project Name 1](https://github.com/Mansourtheonly/your-project-link-1)**  
+- **[Project Name 2](https://github.com/Mansourtheonly/my-prayer)**  
+- **[Project Name 3](https://github.com/Mansourtheonly/UdemyCourseScraper)**  
+
+*Feel free to check out my pinned repositories for additional work and contributions!*
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:your.email@example.com)
+
+- **GitHub:** [Mansourtheonly](https://github.com/Mansourtheonly/landing-page)
+- **LinkedIn:** [Mansourtheonly](https://www.linkedin.com/in/mansourtheonly)  
+  *(If you use a different URL for LinkedIn, update this link.)*
+- **Twitter:** [@Mansourtheonly](https://twitter.com/Mansourtheonly)
+- **Email:** [your.email@example.com](mailto:mehdimansourwork@gmail.com)  
+  *(Replace with your actual email address.)*
 
 ---
 
-*Let's build something amazing together!*
+*Let's connect and build something amazing together!*
