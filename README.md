@@ -29,10 +29,8 @@ Below are some of my key projects. Click on any to learn more about the technolo
 
 - **GitHub:** [Mansourtheonly](https://github.com/Mansourtheonly/landing-page)
 - **LinkedIn:** [Mansourtheonly](https://www.linkedin.com/in/mansourtheonly)  
-  *(If you use a different URL for LinkedIn, update this link.)*
 - **Twitter:** [@Mansourtheonly](https://twitter.com/Mansourtheonly)
 - **Email:** [mehdimansourwork@gmail.com](mailto:mehdimansourwork@gmail.com)  
-  *(Replace with your actual email address.)*
 
 ---
 
