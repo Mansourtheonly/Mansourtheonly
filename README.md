@@ -33,7 +33,7 @@ Below are some of my key projects. Click on any to learn more about the technolo
 ## 🤝 Connect with Me
 
 - **GitHub:** [Mansourtheonly](https://github.com/Mansourtheonly/landing-page ) 🐙
-- **LinkedIn:** [Mansourtheonly](https://www.linkedin.com/in/mansourtheonly ) 💼 
+- **LinkedIn:** [Mansourtheonly](https://www.linkedin.com/in/mehdimansour/ ) 💼 
 - **Twitter:** [@Mansourtheonly](https://twitter.com/Mansourtheonly ) 🐦
 - **Email:** [mehdimansourwork@gmail.com](mailto:mehdimansourwork@gmail.com) 📧 
 
