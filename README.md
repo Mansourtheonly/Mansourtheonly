@@ -4,13 +4,43 @@
 
 I'm a passionate Full Stack Developer dedicated to crafting clean, efficient, and visually appealing applications. My expertise lies in building dynamic web experiences using **React**, **TypeScript**, **JavaScript**, **Tailwind CSS**, and **Laravel**. I thrive on creating impactful solutions, whether it's developing a comprehensive website or contributing to open-source projects.
 
+## 📊 GitHub Stats
+
+[![Mansourtheonly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansourtheonly&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansourtheonly&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+
 ## 🛠️ Technologies & Tools
 
-| Frontend | Backend | Styling | Tools |
-| :------- | :------ | :------ | :---- |
-| React    | Laravel | Tailwind CSS | Git |
-| TypeScript | PHP     | CSS     | npm |
-| JavaScript |         |         | yarn |
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/>
+  </a>
+</p>
 
 ## ✨ Featured Websites
 
